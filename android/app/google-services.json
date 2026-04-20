@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126886032261",
+    "project_id": "aquasafe-6023f",
+    "storage_bucket": "aquasafe-6023f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126886032261:android:36d8a7f1a71679b2758aec",
+        "android_client_info": {
+          "package_name": "com.example.aquasafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGS717yDJpuPJa1VCrpkGHz8ObvAZRUAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
